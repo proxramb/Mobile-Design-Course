@@ -1,0 +1,6 @@
+framework module Pods_Flixterr {
+  umbrella header "Pods-Flixterr-umbrella.h"
+
+  export *
+  module * { export * }
+}
