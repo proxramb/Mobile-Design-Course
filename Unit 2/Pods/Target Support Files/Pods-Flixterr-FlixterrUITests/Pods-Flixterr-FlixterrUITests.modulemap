@@ -1,6 +1,0 @@
-framework module Pods_Flixterr_FlixterrUITests {
-  umbrella header "Pods-Flixterr-FlixterrUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
